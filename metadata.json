@@ -1,0 +1,6 @@
+{
+  "name": "Untuk Acaa",
+  "description": "Website surat permintaan maaf puitis dan interaktif untuk Acaa atas kejadian Malam Sabtu, 17 Juli 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
